@@ -1,4 +1,6 @@
 # odroidxu4LinuxImage
+[https://www.dropbox.com/s/5qgz784iri6neg2/linux-image-for-odroid-xu3.tar.gz?dl=0]
+
 Ubuntu 14.04, ros indigo 
 To get started, first things first, after you plugged in the emmc chip through the converter, you open your terminal.
 
