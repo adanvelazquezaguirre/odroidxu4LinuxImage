@@ -1,6 +1,6 @@
 # odroidxu4LinuxImage
 [odroidxu4LinuxImage]
-(ftp://ftp.imp.fu-berlin.de/pub/autonomos/data/modelcar/v3/system-images/)
+(ftp://ftp.imp.fu-berlin.de/pub/autonomos/data/modelcar/)
 
 Ubuntu 14.04, ros indigo 
 To get started, first things first, after you plugged in the emmc chip through the converter, you open your terminal.
